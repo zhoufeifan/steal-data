@@ -1,0 +1,28 @@
+{
+  "name": "steal-data",
+  "version": "1.0.0",
+  "description": "just steal some data have fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoufeifan/steal-data.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "zhoufeifan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoufeifan/steal-data/issues"
+  },
+  "homepage": "https://github.com/zhoufeifan/steal-data#readme",
+  "devDependencies": {
+    "async": "^2.6.0",
+    "chalk": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.2"
+  }
+}
